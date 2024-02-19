@@ -1,0 +1,13 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.home{
+    height: 100%;
+  
+    z-index: -1;
+     background-repeat: no-repeat
+}
+#mainHeading{
+    text-align: center;
+    color: #e63843;
+}
